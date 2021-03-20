@@ -1,4 +1,4 @@
-# QUANTUM-CLASSIC-ENCRYPTION-PROTECTION
+# QUANTUM-CLASSIC-ENCRYPTION-PROTECTION NX STYLE DISABLE PRIME AND BASE58
 
 protect all classic models of encryption from prime solving root of BIG prime in all clasical
 encryption functionality using hardware disable on the processor die using an NX disable bit at the QCPU function level
