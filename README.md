@@ -13,5 +13,5 @@ to stop impending reversal of all classic encryption models through transition t
 
 
 # TO STOP REVERSAL of SSL classic style certs
-# TO STOP REVERSAL of crypto style sha256 block sums past and current
-# and major founding classic computing encryption functions
+# TO STOP REVERSAL of crypto currency global financial network style sha256 block sums past and current of 50.00 BTC original block rewards
+# and major founding classic computing encryption functions -> email , PGP
