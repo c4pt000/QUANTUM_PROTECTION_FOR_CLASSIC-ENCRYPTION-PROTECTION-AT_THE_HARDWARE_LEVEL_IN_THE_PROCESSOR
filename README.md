@@ -23,7 +23,7 @@ SO ITS VERY SCARY BUT ANY TRANSISITOR BASED QUANTUM BASED CPU CHIP MUST ALWAYS D
 or literally our entire Internet would break and all of our financial systems would break
 
 
-# QUANTUM-CLASSIC-ENCRYPTION-PROTECTION NX STYLE DISABLE PRIME AND BASE58
+# QUANTUM-CLASSIC-ENCRYPTION-PROTECTION NX STYLE DISABLE PRIME 
 
 protect all classic models of encryption from prime solving root of BIG prime in all clasical
 encryption functionality using hardware disable on the processor die using an NX disable bit at the QCPU function level
