@@ -4,7 +4,7 @@ to have protection for classical encryption mechanisms at the node level where p
 if quantum computers attempt to solve encryption functions for decrypting classic methods have node level protection if manufacturers can't agree on installing a type of "NX style disable bit" for prime root encryption functions on every QPU
 
 
-see https://github.com/c4pt000/XORED-defense-photochain-project for ISP and cellular tower node level protection
+# see https://github.com/c4pt000/XORED-defense-photochain-project for ISP and cellular tower node level protection
 
 
 FOR EVERY QPU EVER MADE SO THE INTERNET DOESNT BREAK   NX-bit on the processor die to disable math function to solve prime of a sha256 style encryption
