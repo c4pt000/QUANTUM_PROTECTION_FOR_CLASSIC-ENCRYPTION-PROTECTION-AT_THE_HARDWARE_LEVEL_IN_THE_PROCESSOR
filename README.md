@@ -43,7 +43,7 @@ or literally our entire Internet would break and all of our financial systems wo
 # QUANTUM-CLASSIC-ENCRYPTION-PROTECTION NX STYLE DISABLE PRIME 
 
 protect all classic models of encryption from prime solving root of BIG prime in all clasical
-encryption functionality using hardware disable on the processor die using an NX disable bit at the QCPU function level
+encryption functionality using hardware disable on the processor die using an NX disable bit at the QPU function level
 
 to never allow prime solving for detection of signature code for all classical encryption sums
 
