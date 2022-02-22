@@ -15,7 +15,7 @@ if quantum computers attempt to solve encryption functions for decrypting classi
 # see https://github.com/c4pt000/XORED-defense-photochain-project for ISP and cellular tower node level protection
 
 
-FOR EVERY QPU EVER MADE SO THE INTERNET DOESNT BREAK   NX-bit on the processor die to disable math function to solve prime of a sha256 style encryption
+FOR EVERY QPU EVER MADE SO THE INTERNET DOESNT BREAK   NX-bit on the processor die to disable prime math functions which allowiy solving prime of a sha256 style encryption
 
 WE keep classic encryption for a long time we dont go to quantum encryption
 because we would have to constantly build more and more and more efficient quantum computers racing to stop a faster quantum computer from solving just a quantum function
