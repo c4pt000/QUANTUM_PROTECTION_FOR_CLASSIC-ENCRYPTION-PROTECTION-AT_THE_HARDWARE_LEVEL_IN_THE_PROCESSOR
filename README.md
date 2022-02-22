@@ -50,7 +50,7 @@ to never allow prime solving for detection of signature code for all classical e
 (of fast prime solve for major root reveal of prime)
 
 at the quantum cpu transisitor level similar to classic computing NX disable bit on the physical cpu level
-but instead it will be an NX style disable bit for detection of primes being solved for sha256 by detecting all kernel activity of function trying to load
+but instead it will be an NX style disable bit for detection of primes being solved for sha256 by detecting all kernel activity of function(s) trying to load
 to stop impending reversal of all classic encryption models through transition to quantum encryption functionality 
 
 
