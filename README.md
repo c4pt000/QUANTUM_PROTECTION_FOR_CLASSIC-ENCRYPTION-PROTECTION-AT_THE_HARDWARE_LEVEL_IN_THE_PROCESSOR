@@ -18,7 +18,7 @@ if quantum computers attempt to solve encryption functions for decrypting classi
 FOR EVERY QPU EVER MADE SO THE INTERNET DOESNT BREAK   NX-bit on the processor die to disable math function to solve prime of a sha256 style encryption
 
 WE keep classic encryption for a long time we dont go to quantum encryption
-because we would have to constantly build more and more and more efficient quantum computer racing to stop a faster quantum computer from solving just a quantum function
+because we would have to constantly build more and more and more efficient quantum computers racing to stop a faster quantum computer from solving just a quantum function
 
 
 if QUANTUM COMPUTER ON THE ENTIRE WORLD NET MUST ALWAYS USE a DISABLE_PRIME_SOLVE_FOR_ROOT_ENCRYPTION
