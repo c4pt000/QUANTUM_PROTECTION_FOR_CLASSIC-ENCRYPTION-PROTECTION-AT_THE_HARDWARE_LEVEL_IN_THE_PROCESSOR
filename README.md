@@ -25,7 +25,7 @@ if QUANTUM COMPUTER ON THE ENTIRE WORLD NET MUST ALWAYS USE a DISABLE_PRIME_SOLV
 then we keep classical computer style encryption in tact without destroying our world wide internet
 
 since having a computer that can solve classic encryption or having to constantly race to solve a quantum encryption model it would devaste the entire world
-since the entire world use classic encryption WE CAN NEVER VIOLATE OR CLASSIC computer encryption or our entire world internet would break and malfunction
+since the entire world use classic encryption WE CAN NEVER VIOLATE OR destroy CLASSIC computer encryption or our entire world internet would break and malfunction
 
 
 EVERY QPU IN ANY DEVICE EVER BUILT MUST ALWAYS DISABLE PRIME_TO_SOLVE_ROOT_ENC for any type of encryption scheme
