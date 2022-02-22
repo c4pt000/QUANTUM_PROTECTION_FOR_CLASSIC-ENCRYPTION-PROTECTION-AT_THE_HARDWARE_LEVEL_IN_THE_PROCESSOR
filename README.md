@@ -21,7 +21,7 @@ WE keep classic encryption for a long time we dont go to quantum encryption
 because we would have to constantly build more and more and more efficient quantum computers racing to stop a faster quantum computer from solving just a quantum function
 
 
-if QUANTUM COMPUTER ON THE ENTIRE WORLD NET MUST ALWAYS USE a DISABLE_PRIME_SOLVE_FOR_ROOT_ENCRYPTION
+ QUANTUM COMPUTERS ON THE ENTIRE WORLD NET MUST ALWAYS USE a DISABLE_PRIME_SOLVE_FOR_ROOT_ENCRYPTION
 then we keep classical computer style encryption in tact without destroying our world wide internet
 
 since having a computer that can solve classic encryption or having to constantly race to solve a quantum encryption model it would devaste the entire world
