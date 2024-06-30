@@ -77,6 +77,8 @@ or literally our entire Internet would break and all of our financial systems wo
 
 # QUANTUM-CLASSIC-ENCRYPTION-PROTECTION NX STYLE DISABLE PRIME 
 
+a review of prime * https://www.abc.net.au/news/science/2018-01-20/how-prime-numbers-rsa-encryption-works/9338876
+
 protect all classic models of encryption from prime solving root of BIG prime in all clasical
 encryption functionality using hardware disable on the processor die using an NX disable bit at the QPU function level
 
