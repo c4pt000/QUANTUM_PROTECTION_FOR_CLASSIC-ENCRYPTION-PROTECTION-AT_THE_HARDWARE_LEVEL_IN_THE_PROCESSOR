@@ -17,6 +17,7 @@ the "internet home drive" of 1 yottabyte would allow for quantum computers safel
 
 https://www.wolframalpha.com/input?i=zettabytes+compared+to+yottabytes
 
+![s1](https://github.com/c4pt000/QUANTUM_PROTECTION_FOR_CLASSIC-ENCRYPTION-PROTECTION-AT_THE_HARDWARE_LEVEL_IN_THE_PROCESSOR/releases/download/amount-of-data-internet/google-ai-amount-of-bytes.png)
 
 because the internet home drive would be upgraded for its encryption to be quantum resistant from a quantum computer connected to it
 but each internet home drive would occasionally sync with other internet home drives on the world wide network that would also already have the information stored on the individual device as quantum resistant receiving the updates from each p2p internet drive
