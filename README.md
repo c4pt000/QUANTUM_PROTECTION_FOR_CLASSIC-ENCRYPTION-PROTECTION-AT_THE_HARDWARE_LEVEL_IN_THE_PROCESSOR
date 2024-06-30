@@ -13,7 +13,11 @@ https://www.livescience.com/technology/communications/fiber-optic-data-transfer-
 
 <p>
 
-the "internet home drive" of 8 exa bytes would allow for quantum computers safely
+the "internet home drive" of 1 yottabyte would allow for quantum computers safely
+
+https://www.wolframalpha.com/input?i=zettabytes+compared+to+yottabytes
+
+
 because the internet home drive would be upgraded for its encryption to be quantum resistant from a quantum computer connected to it
 but each internet home drive would occasionally sync with other internet home drives on the world wide network that would also already have the information stored on the individual device as quantum resistant receiving the updates from each p2p internet drive
 this is the only safe way for quantum computers to exist
@@ -29,7 +33,7 @@ but if the entire "stack" of the internet is stored in the "internet home drive"
 then quantum computers are safe to use on a p2p network of internet home drives per IP going through each invidiual internet home drive to be filtered for possible exploitation of encryption before information packects are sent or received per p2p internet home drive
 then every internet home drive per household acting as a p2p node connecting to other internet home drives "wont break the entire world wide network" as the information has to pass through each home device of the entire internet as a filter
 
-so if one copy of the internet home drive was turned into a poisoned "peer" it would be rejected by the other quantum internet home drives on the world wide network
+so if one copy of the internet home drive was turned into a poisoned "peer" it would be rejected by the other quantum internet home drives on the world wide network (until it can repair itself but would still have all the information of the last snapshot of its update of internet drives)
 
 protecting the entire worlds network on an indivdual peer basis per owner
 
