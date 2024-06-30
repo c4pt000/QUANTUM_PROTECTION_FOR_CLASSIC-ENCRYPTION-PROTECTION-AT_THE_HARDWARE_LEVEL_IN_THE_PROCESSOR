@@ -9,6 +9,8 @@ as a possible "internet home drive" that would allow for quantum computers to op
 
 https://www.microsoft.com/en-us/research/project/dna-storage/
 
+https://www.livescience.com/technology/communications/fiber-optic-data-transfer-speeds-hit-a-rapid-301-tbps-12-million-times-faster-than-your-home-broadband-connection
+
 <p>
 
 the "internet home drive" of 8 exa bytes would allow for quantum computers safely
