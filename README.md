@@ -12,17 +12,24 @@ https://www.microsoft.com/en-us/research/project/dna-storage/
 <p>
 
 the "internet home drive" of 8 exa bytes would allow for quantum computers safely
-because the internet home drive would be upgrade for its encryption to be quantum resistant from a quantum computer connected to it
-but each internet home drive would occasionally sync with other internet home drives on the network that would also already have the information stored on the individual device as quantum resistant
+because the internet home drive would be upgraded for its encryption to be quantum resistant from a quantum computer connected to it
+but each internet home drive would occasionally sync with other internet home drives on the world wide network that would also already have the information stored on the individual device as quantum resistant receiving the updates from each p2p internet drive
 this is the only safe way for quantum computers to exist
-its impossible to do it the other way safely
-cant have quantum computers and try to upgrade every computer invidually using it on the internet
-(this is not a joke for the mentally weak that dont understand it)
-because its impossible to track down through the internet every single computer that needs to upgraded for quantum resistance from quantum code breaking
-but if the entire "stack" of the internet is stored in the "internet home drive" in the next 10 years
-then quantum computers are safe to use the internet going through each invidiual internet home drive to be filtered for possible exploitation of encryption
-because like i said if the internet home drive is released as all the information inside of it upgraded as quantum resistant
-then every internet home drive per household acting as a p2p node connecting to other internet home drives "wont break the entire world wide network"
+
+
+its impossible to do it the other way safely....
+CANT have quantum computers and try to upgrade every classic computer already in use on the world wide network for better encryption standards.....
+
+because its impossible to track down through the internet every single classic computer using outdated encryption that is considered weak to quantum computers that needs to upgraded for quantum resistance to be protected quantum code breaking
+
+but if the entire "stack" of the internet is stored in the "internet home drive" in the next 10 years as a home consumer device
+
+then quantum computers are safe to use on a p2p network of internet home drives per IP going through each invidiual internet home drive to be filtered for possible exploitation of encryption before information packects are sent or received per p2p internet home drive
+then every internet home drive per household acting as a p2p node connecting to other internet home drives "wont break the entire world wide network" as the information has to pass through each home device of the entire internet as a filter
+
+so if one copy of the internet home drive was turned into a poisoned "peer" it would be rejected by the other quantum internet home drives on the world wide network
+
+protecting the entire worlds network on an indivdual peer basis per owner
 
 
  
