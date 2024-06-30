@@ -13,7 +13,7 @@ https://www.livescience.com/technology/communications/fiber-optic-data-transfer-
 
 <p>
 
-the "internet home drive" of 1 yottabyte would allow for quantum computers safely
+the "internet home drive" of 1 YB (yottabyte) would allow for quantum computers safely
 
 https://www.wolframalpha.com/input?i=zettabytes+compared+to+yottabytes
 
