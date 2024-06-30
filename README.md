@@ -2,6 +2,29 @@
 written 04-21-2021
 
 
+as a possible "internet home drive" that would allow for quantum computers to operate safely without breaking the entire world wide network
+
+https://www.microsoft.com/en-us/research/project/dna-storage/
+
+<p>
+
+the "internet home drive" of 8 exa bytes would allow for quantum computers safely
+because the internet home drive would be upgrade for its encryption to be quantum resistant from a quantum computer connected to it
+but each internet home drive would occasionally sync with other internet home drives on the network that would also already have the information stored on the individual device as quantum resistant
+this is the only safe way for quantum computers to exist
+its impossible to do it the other way safely
+cant have quantum computers and try to upgrade every computer invidually using it on the internet
+(this is not a joke for the mentally weak that dont understand it)
+because its impossible to track down through the internet every single computer that needs to upgraded for quantum resistance from quantum code breaking
+but if the entire "stack" of the internet is stored in the "internet home drive" in the next 10 years
+then quantum computers are safe to use the internet going through each invidiual internet home drive to be filtered for possible exploitation of encryption
+because like i said if the internet home drive is released as all the information inside of it upgraded as quantum resistant
+then every internet home drive per household acting as a p2p node connecting to other internet home drives "wont break the entire world wide network"
+
+
+ 
+</p>
+
 
 # 02-21-22 update
 # https://asiatimes.com/2022/02/the-threat-of-quantum-computing-to-security-infrastructure/
