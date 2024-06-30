@@ -2,6 +2,9 @@
 written 04-21-2021
 
 
+
+# update 06-30-2024 on            OT of quantum computers operating without breaking the internet
+
 as a possible "internet home drive" that would allow for quantum computers to operate safely without breaking the entire world wide network
 
 https://www.microsoft.com/en-us/research/project/dna-storage/
